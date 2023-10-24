@@ -2,8 +2,10 @@
  Напишите программу , которая задает массив из 8 элеменов и выводит их на экран
   ПОКА НЕ РАЬОТАЕТ . РАЗБИРАЮСЬ
 */
+// Console.clear();
+
 // System.Console.WriteLine(" Введите длинну массива ");
-// int arreyLenghts = Convert.ToInt32(Console.ReadLine);
+// int arrayLenghts = Convert.ToInt32(Console.ReadLine);
 
 // int[] RandomArray(int arrayLenghts)
 // {
