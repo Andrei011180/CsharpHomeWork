@@ -1,0 +1,5 @@
+C:\Users\acer\Desktop\Семинары  С#\task39\obj\Debug\net6.0\task39.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Семинары  С#\task39\obj\Debug\net6.0\task39.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Семинары  С#\task39\obj\Debug\net6.0\task39.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Семинары  С#\task39\obj\Debug\net6.0\task39.AssemblyInfo.cs
+C:\Users\acer\Desktop\Семинары  С#\task39\obj\Debug\net6.0\task39.csproj.CoreCompileInputs.cache
