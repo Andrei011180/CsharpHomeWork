@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\Семинары  С#\task53\bin\Debug\net7.0\task53.exe
+C:\Users\acer\Desktop\Семинары  С#\task53\bin\Debug\net7.0\task53.deps.json
+C:\Users\acer\Desktop\Семинары  С#\task53\bin\Debug\net7.0\task53.runtimeconfig.json
+C:\Users\acer\Desktop\Семинары  С#\task53\bin\Debug\net7.0\task53.dll
+C:\Users\acer\Desktop\Семинары  С#\task53\bin\Debug\net7.0\task53.pdb
+C:\Users\acer\Desktop\Семинары  С#\task53\obj\Debug\net7.0\task53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Семинары  С#\task53\obj\Debug\net7.0\task53.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Семинары  С#\task53\obj\Debug\net7.0\task53.AssemblyInfo.cs
+C:\Users\acer\Desktop\Семинары  С#\task53\obj\Debug\net7.0\task53.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Семинары  С#\task53\obj\Debug\net7.0\task53.dll
+C:\Users\acer\Desktop\Семинары  С#\task53\obj\Debug\net7.0\refint\task53.dll
+C:\Users\acer\Desktop\Семинары  С#\task53\obj\Debug\net7.0\task53.pdb
+C:\Users\acer\Desktop\Семинары  С#\task53\obj\Debug\net7.0\task53.genruntimeconfig.cache
+C:\Users\acer\Desktop\Семинары  С#\task53\obj\Debug\net7.0\ref\task53.dll
